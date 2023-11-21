@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/olx-host/static/css/main.2a40d54e.css",
+    "main.js": "/olx-host/static/js/main.f7eef394.js",
+    "static/media/bannerImg.png": "/olx-host/static/media/bannerImg.e2c5080570a45c88d6b7.png",
+    "static/media/olx-logo.png": "/olx-host/static/media/olx-logo.b3f099a2fe7978c70944.png",
+    "static/media/jpg": "/olx-host/static/media/6c27cb67c759270fc2189b12cb13285b.c4a876ae522330f0eedb.jpg",
+    "static/media/Thar_1601615282959_1601615288316.webp": "/olx-host/static/media/Thar_1601615282959_1601615288316.80211f859a7c5ef46b42.webp",
+    "static/media/bmw-g310r-left-side-view0.webp": "/olx-host/static/media/bmw-g310r-left-side-view0.3a4c7989f05ce4fd3aa5.webp",
+    "static/media/R15V3.jpg": "/olx-host/static/media/R15V3.7b0ffd10d3eca29a895e.jpg",
+    "index.html": "/olx-host/index.html",
+    "main.2a40d54e.css.map": "/olx-host/static/css/main.2a40d54e.css.map",
+    "main.f7eef394.js.map": "/olx-host/static/js/main.f7eef394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a40d54e.css",
+    "static/js/main.f7eef394.js"
+  ]
+}

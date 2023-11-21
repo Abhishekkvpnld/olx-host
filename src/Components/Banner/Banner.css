@@ -1,0 +1,60 @@
+.bannerParentDiv {
+  padding-top: 4em;
+  height: 30px;
+  display: block;
+}
+.bannerParentDiv .bannerChildDiv {
+  
+}
+.bannerParentDiv .bannerChildDiv .menuBar {
+  display: flex;
+  padding: 10px 16px 10px 16px;
+}
+
+.bannerParentDiv .bannerChildDiv .menuBar span {
+display: block;
+color: black;
+}
+
+.bannerParentDiv .bannerChildDiv .menuBar .categoryMenu .category {
+  margin-right: 16px;
+  font-weight: bolder;
+  display: block;
+  font-size: small;
+margin-top: 12px;
+margin-left:20PX;
+}
+
+.arrow {
+  /* display: none; */
+  font-size: small;
+  margin-top: 4px;
+  margin-right: 4px;
+
+}
+
+.bannerParentDiv .bannerChildDiv .menuBar .otherQuickOptions {
+  display: flex;
+  align-items: center;
+}
+.bannerParentDiv .bannerChildDiv .menuBar .otherQuickOptions span {
+  padding: 10px;
+}
+
+.bannerChildDiv .banner {
+  position: relative;
+  width: 100vw;
+}
+.bannerChildDiv .banner img{
+  width: 100vw;
+}
+
+@media only screen and (max-width: 700px) {
+  .otherQuickOptions {
+    display: none;
+  }
+  .bannerChildDiv .banner {
+    position: relative;
+  }
+}
+
